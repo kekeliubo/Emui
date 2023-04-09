@@ -1,0 +1,4 @@
+**.d.ts
+/packages/emui
+dist
+node_modules
